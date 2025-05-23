@@ -1,0 +1,43 @@
+FilNamn;Bedömning;Kommentar
+BomTemplates\NamedSectionTemplateHierarchyNode.cs;Osäkra;Mistänker att den är trasitiv
+LastingMethod.cs;Gammal;
+ManageViewModels\ChangePasswordViewModel.cs;Gammal;Vi hittade inga referenser till den
+ManageViewModels\EnableAuthenticatorViewModel.cs;Gammal;Vi hittade inga referenser till den
+ManageViewModels\ExternalLoginsViewModel.cs;Gammal;Vi hittade inga referenser till den
+ManageViewModels\GenerateRecoveryCodesViewModel.cs;Gammal;Vi hittade inga referenser till den
+ManageViewModels\IndexViewModel.cs;Gammal;Vi hittade inga referenser till den
+ManageViewModels\RemoveLoginViewModel.cs;Gammal;Vi hittade inga referenser till den
+ManageViewModels\SetPasswordViewModel.cs;Gammal;Vi hittade inga referenser till den
+ManageViewModels\TwoFactorAuthenticationViewModel.cs;Gammal;Vi hittade inga referenser till den
+Niche.cs;Gammal;
+OpeningHours.cs;Gammal;Vi hittade inga referenser till den
+OpeningHoursTimeSpan.cs;Gammal;Vi hittade inga referenser till den
+ProductUnit.cs;Gammal;Vi hittade inga referenser till den
+Quotation.cs;Gammal;
+QuotationImage.cs;Gammal;
+QuotationRequest.cs;Gammal;
+QuotationRequestCompanyImage.cs;Gammal;
+QuotationRequestLogEntry.cs;Gammal;
+QuotationRequestProductImage.cs;Gammal;
+Subscription.cs;Gammal;
+SubscriptionUser.cs;Gammal;
+SupplierBrand.cs;Gammal;
+SupplierCapability.cs;Gammal;
+SupplierCertification.cs;Gammal;
+SupplierCertificationOrganization.cs;Gammal;
+SupplierCustomerRelation.cs;Gammal;
+SupplierSupplierBrand.cs;Gammal;
+Triggers\CreateArticleTrigger.cs;Ny;Verkar var arelaterat till signalR
+Triggers\CreateComponentTrigger.cs;Ny;Verkar var arelaterat till signalR
+Triggers\CreateNotificationTrigger.cs;Ny;Verkar var arelaterat till signalR
+Triggers\CreateProductTrigger.cs;Ny;Verkar var arelaterat till signalR
+Triggers\GlobalData\UpdateMChartTrigger.cs;Ny;Verkar var arelaterat till signalR
+Triggers\Integration\SeasonIntegrationTrigger.cs;Ny;Verkar var arelaterat till signalR
+Triggers\Integration\SizeConversionTableIntegrationTrigger.cs;Ny;Verkar var arelaterat till signalR
+Triggers\Integration\SizeSystemIntegrationTrigger.cs;Ny;Verkar var arelaterat till signalR
+Triggers\Integration\TagIntegrationTrigger.cs;Ny;Verkar var arelaterat till signalR
+Triggers\UpdateComponentCategoryTrigger.cs;Ny;Verkar var arelaterat till signalR
+Triggers\UpdateCustomFields\CustomFieldTrigger.cs;Ny;Verkar var arelaterat till signalR
+Triggers\UpdateCustomFields\SelectCustomFieldOptionTrigger.cs;Ny;Verkar var arelaterat till signalR
+Triggers\UpdateProductFileVersionTrigger.cs;Ny;Verkar var arelaterat till signalR
+Triggers\UpdateProductTrigger.cs;Ny;Verkar var arelaterat till signalR
